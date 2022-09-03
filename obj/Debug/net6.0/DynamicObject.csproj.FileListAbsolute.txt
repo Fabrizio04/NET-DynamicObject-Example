@@ -1,0 +1,17 @@
+C:\Users\Fabrizio\Desktop\DynamicObject\bin\Debug\net6.0\DynamicObject.exe
+C:\Users\Fabrizio\Desktop\DynamicObject\bin\Debug\net6.0\DynamicObject.deps.json
+C:\Users\Fabrizio\Desktop\DynamicObject\bin\Debug\net6.0\DynamicObject.runtimeconfig.json
+C:\Users\Fabrizio\Desktop\DynamicObject\bin\Debug\net6.0\DynamicObject.dll
+C:\Users\Fabrizio\Desktop\DynamicObject\bin\Debug\net6.0\DynamicObject.pdb
+C:\Users\Fabrizio\Desktop\DynamicObject\obj\Debug\net6.0\DynamicObject.csproj.AssemblyReference.cache
+C:\Users\Fabrizio\Desktop\DynamicObject\obj\Debug\net6.0\DynamicObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabrizio\Desktop\DynamicObject\obj\Debug\net6.0\DynamicObject.AssemblyInfoInputs.cache
+C:\Users\Fabrizio\Desktop\DynamicObject\obj\Debug\net6.0\DynamicObject.AssemblyInfo.cs
+C:\Users\Fabrizio\Desktop\DynamicObject\obj\Debug\net6.0\DynamicObject.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\Desktop\DynamicObject\obj\Debug\net6.0\DynamicObject.dll
+C:\Users\Fabrizio\Desktop\DynamicObject\obj\Debug\net6.0\refint\DynamicObject.dll
+C:\Users\Fabrizio\Desktop\DynamicObject\obj\Debug\net6.0\DynamicObject.pdb
+C:\Users\Fabrizio\Desktop\DynamicObject\obj\Debug\net6.0\DynamicObject.genruntimeconfig.cache
+C:\Users\Fabrizio\Desktop\DynamicObject\obj\Debug\net6.0\ref\DynamicObject.dll
+C:\Users\Fabrizio\Desktop\DynamicObject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Fabrizio\Desktop\DynamicObject\obj\Debug\net6.0\DynamicObject.csproj.CopyComplete
